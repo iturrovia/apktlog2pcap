@@ -1,0 +1,3 @@
+[submodule "src/main/java/jfnlite"]
+	path = src/main/java/jfnlite
+	url = https://github.com/fran-ovia/jfnlite
