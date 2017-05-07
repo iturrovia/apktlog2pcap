@@ -1,4 +1,5 @@
 ## Converting Oracle SBC (formerly AcmePacket SBC) log files to Wireshark PCAP files
+[![Build Status](https://travis-ci.org/fran-ovia/apktlog2pcap.svg?branch=master)](https://travis-ci.org/fran-ovia/apktlog2pcap)
 
 1. It is a simple application to convert SBC log files to Wireshark PCAP files.
 2. No special requirement! Just Java Runtime Environment installed in your PC.
