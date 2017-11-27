@@ -54,18 +54,18 @@ public class ApktLog {
 	public static final String TRANSPORT_SCTP = "SCTP";
 	
 	static {
-        MONTH_DICT.put("Jan", new Integer(0));
-        MONTH_DICT.put("Feb", new Integer(1));
-		MONTH_DICT.put("Mar", new Integer(2));
-		MONTH_DICT.put("Apr", new Integer(3));
-		MONTH_DICT.put("May", new Integer(4));
-		MONTH_DICT.put("Jun", new Integer(5));
-		MONTH_DICT.put("Jul", new Integer(6));
-		MONTH_DICT.put("Aug", new Integer(7));
-		MONTH_DICT.put("Sep", new Integer(8));
-		MONTH_DICT.put("Oct", new Integer(9));
-		MONTH_DICT.put("Nov", new Integer(10));
-		MONTH_DICT.put("Dec", new Integer(11));
+        MONTH_DICT.put("Jan", new Integer(1));
+        MONTH_DICT.put("Feb", new Integer(2));
+		MONTH_DICT.put("Mar", new Integer(3));
+		MONTH_DICT.put("Apr", new Integer(4));
+		MONTH_DICT.put("May", new Integer(5));
+		MONTH_DICT.put("Jun", new Integer(6));
+		MONTH_DICT.put("Jul", new Integer(7));
+		MONTH_DICT.put("Aug", new Integer(8));
+		MONTH_DICT.put("Sep", new Integer(9));
+		MONTH_DICT.put("Oct", new Integer(10));
+		MONTH_DICT.put("Nov", new Integer(11));
+		MONTH_DICT.put("Dec", new Integer(12));
 	}
 	
 	/**

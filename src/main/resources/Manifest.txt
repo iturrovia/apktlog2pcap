@@ -1,5 +1,5 @@
 Main-Class: apktlog2pcap.Gui
 Specification-Title: apktlog2pcap
-Specification-Version: 0.9.0
+Specification-Version: 0.9.1
 Implementation-Title: apktlog2pcap 
-Implementation-Version: build20160426
+Implementation-Version: build20171127

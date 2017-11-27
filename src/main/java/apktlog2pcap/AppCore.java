@@ -23,7 +23,7 @@ public abstract class AppCore {
 	private static final byte[] DEFAULT_MAC = { (byte) 0x00, (byte) 0x00, (byte) 0x00, (byte) 0x00, (byte) 0x00, (byte) 0x00};
 
 	/** Build version. */
-	public static final String BUILD = "0.9.0.build20170426";
+	public static final String BUILD = "0.9.1.build20171127";
 
 	/**
 	 * Creates a Predicate checking whether a file name matches the pattern corresponding to a given log type
